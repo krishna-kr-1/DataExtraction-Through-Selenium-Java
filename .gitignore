@@ -9,3 +9,11 @@ target/test-classes/rentPriceSave/Day1Save3.class
 target/test-classes/rentPriceSave/Day1Save3$1Property.class
 target/test-classes/rentPriceSave/Day1Save2.class
 target/test-classes/rentPriceSave/Day1Save.class
+.metadata/
+.settings/
+target/
+*.log
+*.xlsx
+email.properties
+Log Sheet/
+Rent Sheet/
