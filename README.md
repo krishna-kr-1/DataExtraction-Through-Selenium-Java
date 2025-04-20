@@ -101,7 +101,7 @@ Update this on email.properties
 
 ### 💻 Run Executable:
 Double click on:
-- `Type.exe` (Windows)
+- `rentexe.exe` (Windows)
 - Or run the `.jar` file:  
   ```bash
-  java -jar TypeRacer.jar
+  java -jar rent.jar
