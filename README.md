@@ -96,4 +96,12 @@ Update this on email.properties
    ```bash
    mvn clean install
    mvn exec:java -Dexec.mainClass="rentPrice.YourMainClass"
+
   Replace YourMainClass with the actual class name containing the main method.
+
+### 💻 Run Executable:
+Double click on:
+- `Type.exe` (Windows)
+- Or run the `.jar` file:  
+  ```bash
+  java -jar TypeRacer.jar
