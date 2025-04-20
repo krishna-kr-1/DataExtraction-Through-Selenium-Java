@@ -35,7 +35,7 @@ public class LogMailer {
             Properties props1 = new Properties();
             props1.put("mail.smtp.auth", "true");
             props1.put("mail.smtp.starttls.enable", "true");
-            props.put("mail.smtp.host", "smtp.gmail.com");
+            props1.put("mail.smtp.host", "smtp.gmail.com");
             props1.put("mail.smtp.port", "587");
 
             Session session = Session.getInstance(props1, new Authenticator() {
